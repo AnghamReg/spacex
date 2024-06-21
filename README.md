@@ -1,16 +1,22 @@
 # test_technique
 
-A new Flutter project.
+Another Flutter project About SpaceX launches and missions.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+## Project Description
 
-A few resources to get you started if this is your first Flutter project:
+This project has a responsive design to ensure that it works well on different screen sizes. 
+_It comprises five screens:_
+  * _**Welcome page :**_ you choose between List of launches and list of missions.
+  * _**List of launches page :**_ it displays the list of launches with important info.
+  * _**Details of a launch :**_ it displays all the info of a selected launch.
+  * _**List of missions page :**_ it displays the list of missions with important info.
+  * _**Details of a mission :**_ it displays all the info of a selected mission.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### What did i learn from this project ? 
+  - Manipulating more complex models in terms of data structure.
+  - Using a new API from SpaceX . [link to documentation of SpaceX API](https://docs.spacexdata.com/)
+  - Using Hive for offline support to cache the launch and mission list locally. [link to documentation of Hive](https://pub.dev/packages/hive)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+    
+
