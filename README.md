@@ -17,6 +17,13 @@ _It comprises five screens:_
   - Manipulating more complex models in terms of data structure.
   - Using a new API from SpaceX . [link to documentation of SpaceX API](https://docs.spacexdata.com/)
   - Using Hive for offline support to cache the launch and mission list locally. [link to documentation of Hive](https://pub.dev/packages/hive)
+  - Focusing on improving code quality and following best practices.
+
+
+
+
+
+
 
     
 
